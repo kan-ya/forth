@@ -1,0 +1,3 @@
+不具合の修正{
+    interpreter.c::executecolon()
+}
