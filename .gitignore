@@ -1,0 +1,8 @@
+# Executables
+/forth
+
+# Object files
+*.o
+
+# Debug files
+*.out
